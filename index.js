@@ -1,4 +1,4 @@
 function hello() {
-    $('.hide').show(); 
+    $('.content').slideToggle('slow'); 
 }
 
