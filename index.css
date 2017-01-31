@@ -2,6 +2,11 @@ body {
     background-image: url(bg.jpg);
 }
 
-h1 {
+h1, p, a {
     color: #fff;
+    font-size: 12px;
+}
+
+p {
+    display: none;
 }
