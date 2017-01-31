@@ -1,7 +1,5 @@
-$(function() {
-    function hello() {
-        var hello = $('#hello');
-        alert('hello, 小胖子~');
-    }
-});
+function hello() {
+    var hello = $('#hello');
+    alert('hello, 小胖子~');
+}
 
