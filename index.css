@@ -12,3 +12,14 @@ h1, p, a {
     display: none;
     height: 120px;
 }
+
+.circle {
+    border-radius: 50%;
+    width: 66px;
+    height: 66px;
+    margin-top: 66px;
+}
+
+.center {
+    text-align: center;
+}
